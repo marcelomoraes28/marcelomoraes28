@@ -12,4 +12,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=marcelomoraes28&show_icons=true&locale=en&layout=compact" alt="marcelomoraes28" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=marcelomoraes28&" alt="marcelomoraes28" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=marcelomoraes28" alt="marcelomoraes28" /></p>
